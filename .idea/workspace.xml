@@ -113,8 +113,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test_e2e" />
       <item itemvalue="Python.excelDemo" />
+      <item itemvalue="Python.test_e2e" />
       <item itemvalue="Python tests.pytest in test_HomePage.py" />
     </list>
     <recent_temporary>
